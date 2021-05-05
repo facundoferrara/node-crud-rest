@@ -1,0 +1,23 @@
+{
+  "name": "node-crud-rest",
+  "version": "1.0.0",
+  "description": "Basic NodeJs CRUD using a rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facundoferrara/node-crud-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facundoferrara/node-crud-rest/issues"
+  },
+  "homepage": "https://github.com/facundoferrara/node-crud-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
